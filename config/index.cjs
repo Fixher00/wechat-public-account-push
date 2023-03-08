@@ -21,15 +21,15 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '老师',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ojyUw5pl60GffZECDq-d8ITY7q54',
+      id: 'ojyUw5uaFK8gRLBMjtHBqHCPhgJI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'm7s2PlKjBTfvx0d5YeEaGOjfbwYkybtwQenDIrJfIT4',
+      useTemplateId: 'UCyCZEM41wqWG_TRW_lukpea87WBlJWUJu46qXm1ayg',
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'T4R7VuBXZT1lEyNblVhsAMY7vLHp-30OLniCcq3TL3w',
+  CALLBACK_TEMPLATE_ID: '5PxL01ipHEjcjVrcpalIWnabVROoq2jnODAfGJXk5Dg',
 
   CALLBACK_USERS: [
     {
