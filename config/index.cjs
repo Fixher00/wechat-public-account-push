@@ -23,13 +23,13 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ojyUw5pl60GffZECDq-d8ITY7q54',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '	m7s2PlKjBTfvx0d5YeEaGOjfbwYkybtwQenDIrJfIT4',
+      useTemplateId: 'm7s2PlKjBTfvx0d5YeEaGOjfbwYkybtwQenDIrJfIT4',
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '	T4R7VuBXZT1lEyNblVhsAMY7vLHp-30OLniCcq3TL3w',
+  CALLBACK_TEMPLATE_ID: 'T4R7VuBXZT1lEyNblVhsAMY7vLHp-30OLniCcq3TL3w',
 
   CALLBACK_USERS: [
     {
